@@ -1,0 +1,15 @@
+# Build output
+/ipguard
+/ipguard.exe
+/dist/
+
+# Go workspace and test artifacts
+*.test
+*.out
+coverage.*
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
